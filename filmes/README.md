@@ -6,12 +6,6 @@ O banco contém informações sobre filmes, autores, atores, avaliações, salá
 
 ---
 
-
-## 🗂 Estrutura do Banco de Dados
-(Aqui entram as tabelas…)
-## 🗂 Estrutura do Banco de Dados
-(Aqui entram as tabelas…)
-
 ## 🗂 Estrutura do Banco de Dados
 
 ### 📌 Tabelas criadas
