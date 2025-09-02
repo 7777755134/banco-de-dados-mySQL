@@ -1,5 +1,5 @@
-create database tbneteflix;
-use tbneteflix;
+create database tbFilmes;
+use tbFilmes;
 
 create table tbfilmes(
        codfilme int not null auto_increment,
