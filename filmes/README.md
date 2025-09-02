@@ -6,6 +6,14 @@ O banco contém informações sobre filmes, autores, atores, avaliações, salá
 
 ---
 
+## 🖼️ Visual estilo plataforma
+![Plataforma de Filmes](https://i.imgur.com/QV3QfB2.png)  
+
+---
+
+## 🗂 Estrutura do Banco de Dados
+(Aqui entram as tabelas…)
+
 ## 🗂 Estrutura do Banco de Dados
 
 ### 📌 Tabelas criadas
