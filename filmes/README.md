@@ -1,5 +1,5 @@
 
-# 🎬 Banco de Dados - TBNetflix
+# 🎬 Banco de Dados - TBFilmes
 
 Este projeto consiste na criação de um **banco de dados relacional** chamado **`tbneteflix`**, que simula uma plataforma de streaming parecida com a Netflix.  
 O banco contém informações sobre filmes, autores, atores, avaliações, salários e produtoras, além de todas as relações entre eles.  
